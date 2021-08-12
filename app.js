@@ -5,7 +5,7 @@ const productRoutes = require('./routes/product');
 const categoryRoutes = require('./routes/category');
 
 const MONGODB_URI =
-  'mongodb+srv://zishan:LZmiBVCMVZ2nqfwx@cluster0.garnl.mongodb.net/e-commerce?retryWrites=true&w=majority';
+  '';
 
 const app = express();
 
